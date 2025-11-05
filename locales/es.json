@@ -1,0 +1,137 @@
+{
+  "meta": {
+    "title": "Evorise — Automatización inteligente que impulsa ganancias",
+    "description": "Automatizamos operaciones con IA para crear experiencias memorables, reducir costos y hacer crecer tus ingresos."
+  },
+  "nav": {
+    "home": "Inicio",
+    "product": "Producto",
+    "products": "Productos",
+    "benefits": "Beneficios",
+    "cases": "Casos",
+    "about": "Sobre",
+    "contact": "Contacto",
+    "cta": "Hablar con un especialista"
+  },
+  "theme": {
+    "dark": "Cambiar tema"
+  },
+  "hero": {
+    "eyebrow": "Inteligencia Operativa",
+    "title": "Automatizamos operaciones para generar ganancias y tiempo.",
+    "subtitle": "Soluciones inteligentes que trabajan las 24 horas del día por tu negocio.",
+    "primaryCta": "Ver demostración",
+    "secondaryCta": "Habla con Evorise"
+  },
+  "productDemo": {
+    "heading": "Demostración del producto",
+    "body": "Nuestro agente de IA reemplaza a los operadores humanos con eficiencia, reduciendo costos y aumentando ventas.",
+    "button": "Ver detalles del producto",
+    "dashboardLabel": "Panel inteligente",
+    "activeConversations": "Conversaciones activas",
+    "metrics": ["NPS 92", "1.2k leads", "ROI 6.4x"],
+    "cardTitle": "Flujo inteligente",
+    "cardBody": "El agente aprende de cada interacción, identifica intenciones y genera insights accionables en tiempo real."
+  },
+  "products": {
+    "heading": "Soluciones a medida",
+    "body": "Playbooks especializados para automatizar operaciones críticas sin perder la voz de tu marca.",
+    "items": [
+      {
+        "title": "automação hamburgueria",
+        "description": "Menús dinámicos, upsell automático y atención 24/7 para experiencias de hamburguesas con delivery."
+      },
+      {
+        "title": "automação agencia",
+        "description": "Calificación instantánea de leads, seguimiento automático e informes de performance para equipos de marketing."
+      },
+      {
+        "title": "automação dj",
+        "description": "Captura de eventos, negociación guiada por IA y agenda inteligente que convierte consultas en reservas."
+      },
+      {
+        "title": "automação clinica",
+        "description": "Pretriaje humanizado, confirmaciones automáticas e integración con historiales clínicos para clínicas modernas."
+      }
+    ]
+  },
+  "benefits": {
+    "heading": "¿Por qué elegir a Evorise?",
+    "items": [
+      {
+        "title": "Atención 24/7",
+        "description": "Presencia en todos los canales con respuestas inmediatas y contexto continuo."
+      },
+      {
+        "title": "Reducción de costos operativos",
+        "description": "Automatiza los flujos repetitivos y enfoca a tu equipo en acciones estratégicas."
+      },
+      {
+        "title": "Crecimiento predecible",
+        "description": "Paneles en tiempo real que aseguran previsibilidad y decisiones basadas en datos."
+      },
+      {
+        "title": "Automatización humanizada",
+        "description": "Conversaciones naturales que reflejan la identidad de tu marca."
+      }
+    ]
+  },
+  "cases": {
+    "heading": "Resultados comprobados",
+    "items": [
+      {
+        "title": "+42% en pedidos de delivery",
+        "description": "Cadena de restaurantes que escaló ventas con atención multicanal automatizada."
+      },
+      {
+        "title": "Ahorro de $400/mes",
+        "description": "Franquicia de servicios redujo nómina operativa al reemplazar la triage manual con IA."
+      },
+      {
+        "title": "Atención automatizada y natural",
+        "description": "Firma boutique elevó la relación con respuestas personalizadas y siempre disponibles."
+      }
+    ]
+  },
+  "about": {
+    "heading": "Sobre Evorise",
+    "body": "Evorise nació para transformar empresas en operaciones digitales inteligentes. Nos enfocamos en eficiencia, automatización y resultados reales. Menos clientes, más transformación."
+  },
+  "tools": {
+    "heading": "Herramientas que usamos",
+    "body": "Integramos las mejores plataformas del mercado para crear sistemas a medida."
+  },
+  "contact": {
+    "heading": "¿Listo para activar tu operación inteligente?",
+    "body": "Mapeamos oportunidades, estimamos ganancias y construimos un proyecto adaptado a tu realidad.",
+    "cta": "Hablar con un especialista"
+  },
+  "footer": {
+    "rights": "© 2025 Evorise. Eficiencia que transforma.",
+    "policy": "Política de Privacidad",
+    "terms": "Términos de Uso",
+    "instagram": "Instagram",
+    "whatsapp": "WhatsApp"
+  },
+  "productPage": {
+    "heroEyebrow": "Evorise Agent",
+    "heroTitle": "Evorise Agent: tu operación inteligente de extremo a extremo",
+    "heroSubtitle": "Combina automatización conversacional, integraciones e insights para acelerar resultados en semanas.",
+    "highlights": {
+      "title": "Lo que entregamos",
+      "items": [
+        "Agentes de IA con aprendizaje continuo",
+        "Orquestación de flujos multicanal",
+        "Analítica predictiva e indicadores accionables",
+        "Implementación guiada por especialistas"
+      ]
+    },
+    "blueprintTitle": "Blueprint",
+    "blueprintParagraphs": [
+      "Definimos KPIs junto al equipo de negocio, conectamos las fuentes de datos críticas y orquestamos jornadas conversacionales que respetan los procesos existentes.",
+      "Nuestros especialistas dictan entrenamientos, crean automatizaciones en n8n y configuran monitoreo continuo con alertas proactivas."
+    ],
+    "cta": "Quiero una propuesta personalizada",
+    "back": "Volver a la página inicial"
+  }
+}

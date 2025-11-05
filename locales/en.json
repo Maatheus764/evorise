@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "title": "Evorise — Intelligent automation that delivers profit",
+    "description": "We automate operations with AI to craft memorable experiences, reduce costs, and grow your company's revenue."
+  },
+  "nav": {
+    "home": "Home",
+    "product": "Product",
+    "benefits": "Benefits",
+    "cases": "Success",
+    "about": "About",
+    "contact": "Contact",
+    "cta": "Talk to a specialist"
+  },
+  "theme": {
+    "dark": "Toggle theme"
+  },
+  "hero": {
+    "eyebrow": "Operational Intelligence",
+    "title": "We automate operations to unlock profit and time.",
+    "subtitle": "Intelligent solutions that work 24/7 for your business.",
+    "primaryCta": "Watch the demo",
+    "secondaryCta": "Talk to Evorise"
+  },
+  "productDemo": {
+    "heading": "Product demo",
+    "body": "Our AI agent replaces human attendants with efficiency, reducing costs while increasing sales.",
+    "button": "See product details",
+    "dashboardLabel": "AI dashboard",
+    "activeConversations": "Active conversations",
+    "metrics": ["NPS 92", "1.2k leads", "ROI 6.4x"],
+    "cardTitle": "Intelligent flow",
+    "cardBody": "The agent learns from every interaction, spots intents, and surfaces actionable insights in real time."
+  },
+  "benefits": {
+    "heading": "Why choose Evorise?",
+    "items": [
+      {
+        "title": "24/7 customer service",
+        "description": "Stay available across every channel with immediate responses and full context."
+      },
+      {
+        "title": "Operational cost reduction",
+        "description": "Automate repetitive flows and free your team to focus on strategic initiatives."
+      },
+      {
+        "title": "Predictable growth",
+        "description": "Real-time dashboards bring predictability and data-driven decisions."
+      },
+      {
+        "title": "Humanized automation",
+        "description": "Natural conversations that echo your brand's personality."
+      }
+    ]
+  },
+  "cases": {
+    "heading": "Proof through results",
+    "items": [
+      {
+        "title": "+42% in delivery orders",
+        "description": "Restaurant network scaled sales with automated multichannel service."
+      },
+      {
+        "title": "$400 saved per month",
+        "description": "Service franchise cut operational payroll by replacing manual triage with AI."
+      },
+      {
+        "title": "Automated yet natural support",
+        "description": "Boutique firm elevated relationships with tailored, always-on answers."
+      }
+    ]
+  },
+  "about": {
+    "heading": "About Evorise",
+    "body": "Evorise was born to transform companies into intelligent digital operations. We focus on efficiency, automation, and measurable results. Fewer clients, deeper transformation."
+  },
+  "tools": {
+    "heading": "Tools we use",
+    "body": "We integrate the best platforms available to craft tailored systems."
+  },
+  "contact": {
+    "heading": "Ready to activate an intelligent operation?",
+    "body": "Let's map opportunities, estimate gains, and build a project tailored to your reality.",
+    "cta": "Talk to a specialist"
+  },
+  "footer": {
+    "rights": "© 2025 Evorise. Efficiency that transforms.",
+    "policy": "Privacy Policy",
+    "terms": "Terms of Use",
+    "instagram": "Instagram",
+    "whatsapp": "WhatsApp"
+  },
+  "productPage": {
+    "heroEyebrow": "Evorise Agent",
+    "heroTitle": "Evorise Agent: your end-to-end intelligent operation",
+    "heroSubtitle": "Blend conversational automation, integrations, and insights to accelerate outcomes in weeks.",
+    "highlights": {
+      "title": "What we deliver",
+      "items": [
+        "AI agents with continuous learning",
+        "Orchestrated multichannel flows",
+        "Predictive analytics and actionable KPIs",
+        "Implementation guided by specialists"
+      ]
+    },
+    "blueprintTitle": "Blueprint",
+    "blueprintParagraphs": [
+      "We define KPIs with your business team, connect critical data sources, and orchestrate conversational journeys that respect existing processes.",
+      "Our specialists deliver trainings, build automations in n8n, and configure continuous monitoring with proactive alerts."
+    ],
+    "cta": "Request a tailored proposal",
+    "back": "Back to homepage"
+  }
+}

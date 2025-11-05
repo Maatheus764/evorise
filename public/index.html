@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="pt" data-theme="dark">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Evorise — Automação inteligente que gera lucro</title>
+    <meta
+      name="description"
+      content="Automatizamos operações com IA para criar experiências memoráveis, reduzir custos e aumentar o lucro da sua empresa."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/assets/css/styles.css" />
+  </head>
+  <body data-page="home">
+    <header class="navbar" data-observe>
+      <div class="navbar__brand" aria-label="Evorise">
+        <span class="logo">EVORISE</span>
+      </div>
+      <nav class="navbar__menu" aria-label="Primary">
+        <a class="nav-link" data-scroll href="#inicio" data-i18n="nav.home">Início</a>
+        <a class="nav-link" data-scroll href="#produto" data-i18n="nav.product">Produto</a>
+        <a class="nav-link" data-scroll href="#beneficios" data-i18n="nav.benefits">Benefícios</a>
+        <a class="nav-link" data-scroll href="#cases" data-i18n="nav.cases">Cases</a>
+        <a class="nav-link" data-scroll href="#sobre" data-i18n="nav.about">Sobre</a>
+        <a class="nav-link" data-scroll href="#contato" data-i18n="nav.contact">Contato</a>
+      </nav>
+      <div class="navbar__actions">
+        <button class="theme-toggle" id="themeToggle" aria-pressed="true">
+          <span class="icon" aria-hidden="true">🌙</span>
+          <span class="sr-only" data-i18n="theme.dark">Alternar tema</span>
+        </button>
+        <div class="language-switcher" role="group" aria-label="Seleção de idioma">
+          <button class="lang-btn" data-lang="pt" aria-pressed="true">PT</button>
+          <button class="lang-btn" data-lang="en">EN</button>
+          <button class="lang-btn" data-lang="es">ES</button>
+        </div>
+        <a class="btn btn--primary" data-scroll href="#contato" data-i18n="nav.cta">Falar com especialista</a>
+      </div>
+    </header>
+
+    <main>
+      <section id="inicio" class="hero" data-observe>
+        <div class="hero__glow" aria-hidden="true"></div>
+        <div class="hero__content">
+          <p class="eyebrow" data-i18n="hero.eyebrow">Inteligência Operacional</p>
+          <h1 data-i18n="hero.title">Automatizamos operações para gerar lucro e tempo.</h1>
+          <p class="subtitle" data-i18n="hero.subtitle">
+            Soluções inteligentes que trabalham 24h por dia pelo seu negócio.
+          </p>
+          <div class="hero__actions">
+            <a class="btn btn--primary" data-scroll href="#demo" data-i18n="hero.primaryCta">Ver demonstração</a>
+            <a
+              class="btn btn--ghost"
+              href="https://wa.me/5511999999999"
+              target="_blank"
+              rel="noopener"
+              data-i18n="hero.secondaryCta"
+            >Falar com a Evorise</a>
+          </div>
+        </div>
+        <div class="hero__mockup" aria-hidden="true">
+          <div class="mockup">
+            <div class="mockup__header">
+              <span class="dot"></span>
+              <span class="dot"></span>
+              <span class="dot"></span>
+              <p data-i18n="productDemo.dashboardLabel">Painel inteligente</p>
+            </div>
+            <div class="mockup__body">
+              <div class="mockup__chat">
+                <div class="chat-bubble chat-bubble--agent" data-i18n="productDemo.cardTitle">Fluxo inteligente</div>
+                <div class="chat-bubble chat-bubble--user">Olá! Como posso escalar meu atendimento?</div>
+                <div class="chat-bubble chat-bubble--agent" data-i18n="productDemo.cardBody">
+                  O agente aprende com cada interação, identifica intenções e gera insights acionáveis em tempo real.
+                </div>
+              </div>
+              <div class="mockup__metrics">
+                <div class="metric">
+                  <span class="metric__label" data-i18n="productDemo.activeConversations">Conversas ativas</span>
+                  <span class="metric__value">128</span>
+                </div>
+                <ul class="metric__list" data-i18n-list="productDemo.metrics">
+                  <li>NPS 92</li>
+                  <li>1.2k leads</li>
+                  <li>ROI 6.4x</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="demo" class="section section--glow" data-observe>
+        <div class="section__header">
+          <h2 data-i18n="productDemo.heading">Demonstração do produto</h2>
+          <p data-i18n="productDemo.body">
+            Nosso agente de IA substitui atendentes humanos com eficiência, reduzindo custos e aumentando vendas.
+          </p>
+        </div>
+        <div class="demo-card">
+          <div class="demo-card__visual" aria-hidden="true">
+            <div class="demo-card__orb"></div>
+          </div>
+          <div class="demo-card__content">
+            <p class="demo-card__copy" data-i18n="productDemo.cardBody">
+              O agente aprende com cada interação, identifica intenções e gera insights acionáveis em tempo real.
+            </p>
+            <a class="btn btn--secondary" href="/produto" data-i18n="productDemo.button">Ver detalhes do produto</a>
+          </div>
+        </div>
+      </section>
+
+      <section id="beneficios" class="section section--cards" data-observe>
+        <div class="section__header">
+          <h2 data-i18n="benefits.heading">Por que escolher a Evorise?</h2>
+        </div>
+        <div class="grid grid--benefits" data-i18n-cards="benefits.items"></div>
+      </section>
+
+      <section id="cases" class="section section--cases" data-observe>
+        <div class="section__header">
+          <h2 data-i18n="cases.heading">Resultados que comprovam</h2>
+        </div>
+        <div class="cases-carousel" data-carousel>
+          <button class="carousel__control" data-carousel-prev aria-label="Anterior">‹</button>
+          <div class="carousel__viewport">
+            <div class="carousel__track" data-i18n-cards="cases.items"></div>
+          </div>
+          <button class="carousel__control" data-carousel-next aria-label="Próximo">›</button>
+        </div>
+      </section>
+
+      <section id="sobre" class="section section--about" data-observe>
+        <div class="section__header">
+          <h2 data-i18n="about.heading">Sobre a Evorise</h2>
+          <p data-i18n="about.body">
+            A Evorise nasceu para transformar empresas em operações digitais inteligentes. Nosso foco é eficiência, automação e
+            resultados reais. Menos clientes, mais transformação.
+          </p>
+        </div>
+      </section>
+
+      <section class="section section--tools" data-observe>
+        <div class="section__header">
+          <h2 data-i18n="tools.heading">Ferramentas que usamos</h2>
+          <p data-i18n="tools.body">
+            Integramos as melhores ferramentas do mercado para criar sistemas sob medida.
+          </p>
+        </div>
+        <div class="tools-grid">
+          <div class="tool-card">Notion</div>
+          <div class="tool-card">n8n</div>
+          <div class="tool-card">Evolution API</div>
+          <div class="tool-card">WhatsApp API</div>
+          <div class="tool-card">OpenAI</div>
+        </div>
+      </section>
+
+      <section id="contato" class="section section--contact" data-observe>
+        <div class="section__header">
+          <h2 data-i18n="contact.heading">Pronto para ativar sua operação inteligente?</h2>
+          <p data-i18n="contact.body">
+            Vamos mapear oportunidades, estimar ganhos e construir um projeto sob medida para o seu contexto.
+          </p>
+        </div>
+        <a class="btn btn--primary" href="https://wa.me/5511999999999" target="_blank" rel="noopener" data-i18n="contact.cta"
+          >Falar com especialista</a
+        >
+      </section>
+    </main>
+
+    <footer class="footer" data-observe>
+      <div class="footer__brand">
+        <span class="logo">EVORISE</span>
+        <p class="footer__copy" data-i18n="footer.rights">© 2025 Evorise. Eficiência que transforma.</p>
+      </div>
+      <nav class="footer__links" aria-label="Rodapé">
+        <a href="#" data-i18n="footer.policy">Política de Privacidade</a>
+        <a href="#" data-i18n="footer.terms">Termos de Uso</a>
+        <a href="https://instagram.com" target="_blank" rel="noopener" data-i18n="footer.instagram">Instagram</a>
+        <a href="https://wa.me/5511999999999" target="_blank" rel="noopener" data-i18n="footer.whatsapp">WhatsApp</a>
+      </nav>
+    </footer>
+
+    <script src="/assets/js/app.js" type="module"></script>
+  </body>
+</html>

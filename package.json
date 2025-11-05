@@ -1,0 +1,9 @@
+{
+  "name": "evorise",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "node server/devServer.js",
+    "start": "node server/devServer.js"
+  }
+}

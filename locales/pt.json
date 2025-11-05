@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "title": "Evorise — Automação inteligente que gera lucro",
+    "description": "Automatizamos operações com IA para criar experiências memoráveis, reduzir custos e aumentar o lucro da sua empresa."
+  },
+  "nav": {
+    "home": "Início",
+    "product": "Produto",
+    "benefits": "Benefícios",
+    "cases": "Cases",
+    "about": "Sobre",
+    "contact": "Contato",
+    "cta": "Falar com especialista"
+  },
+  "theme": {
+    "dark": "Alternar tema"
+  },
+  "hero": {
+    "eyebrow": "Inteligência Operacional",
+    "title": "Automatizamos operações para gerar lucro e tempo.",
+    "subtitle": "Soluções inteligentes que trabalham 24h por dia pelo seu negócio.",
+    "primaryCta": "Ver demonstração",
+    "secondaryCta": "Falar com a Evorise"
+  },
+  "productDemo": {
+    "heading": "Demonstração do produto",
+    "body": "Nosso agente de IA substitui atendentes humanos com eficiência, reduzindo custos e aumentando vendas.",
+    "button": "Ver detalhes do produto",
+    "dashboardLabel": "Painel inteligente",
+    "activeConversations": "Conversas ativas",
+    "metrics": ["NPS 92", "1.2k leads", "ROI 6.4x"],
+    "cardTitle": "Fluxo inteligente",
+    "cardBody": "O agente aprende com cada interação, identifica intenções e gera insights acionáveis em tempo real."
+  },
+  "benefits": {
+    "heading": "Por que escolher a Evorise?",
+    "items": [
+      {
+        "title": "Atendimento 24h/dia",
+        "description": "Esteja presente em todos os canais com respostas imediatas e contexto contínuo."
+      },
+      {
+        "title": "Redução de custos operacionais",
+        "description": "Automatize fluxos repetitivos e direcione a equipe humana para tarefas estratégicas."
+      },
+      {
+        "title": "Crescimento previsível",
+        "description": "Dashboards em tempo real garantem previsibilidade e suporte a decisões baseadas em dados."
+      },
+      {
+        "title": "Automação humanizada",
+        "description": "Fluxos conversacionais naturais que refletem a identidade da sua marca."
+      }
+    ]
+  },
+  "cases": {
+    "heading": "Resultados que comprovam",
+    "items": [
+      {
+        "title": "+42% em pedidos de delivery",
+        "description": "Rede de restaurantes que escalou vendas com atendimento multicanal automatizado."
+      },
+      {
+        "title": "Economia de R$ 2.000/mês",
+        "description": "Franquia de serviços reduziu folha operacional substituindo triagem manual por IA."
+      },
+      {
+        "title": "Atendimento automatizado e natural",
+        "description": "Escritório boutique elevou o padrão de relacionamento com respostas personalizadas."
+      }
+    ]
+  },
+  "about": {
+    "heading": "Sobre a Evorise",
+    "body": "A Evorise nasceu para transformar empresas em operações digitais inteligentes. Nosso foco é eficiência, automação e resultados reais. Menos clientes, mais transformação."
+  },
+  "tools": {
+    "heading": "Ferramentas que usamos",
+    "body": "Integramos as melhores ferramentas do mercado para criar sistemas sob medida."
+  },
+  "contact": {
+    "heading": "Pronto para ativar sua operação inteligente?",
+    "body": "Vamos mapear oportunidades, estimar ganhos e construir um projeto sob medida para o seu contexto.",
+    "cta": "Falar com especialista"
+  },
+  "footer": {
+    "rights": "© 2025 Evorise. Eficiência que transforma.",
+    "policy": "Política de Privacidade",
+    "terms": "Termos de Uso",
+    "instagram": "Instagram",
+    "whatsapp": "WhatsApp"
+  },
+  "productPage": {
+    "heroEyebrow": "Evorise Agent",
+    "heroTitle": "Evorise Agent: sua operação inteligente de ponta a ponta",
+    "heroSubtitle": "Combine automação conversacional, integrações e insights para acelerar resultados em semanas.",
+    "highlights": {
+      "title": "O que entregamos",
+      "items": [
+        "Agentes de IA com aprendizado contínuo",
+        "Orquestração de fluxos multicanal",
+        "Análises preditivas e indicadores acionáveis",
+        "Implantação acompanhada por especialistas"
+      ]
+    },
+    "blueprintTitle": "Blueprint",
+    "blueprintParagraphs": [
+      "Definimos KPIs com o time de negócio, conectamos as fontes de dados críticas e orquestramos jornadas conversacionais que respeitam processos existentes.",
+      "Nossos especialistas conduzem treinamentos, criam automações em n8n e configuram monitoramento contínuo com alertas proativos."
+    ],
+    "cta": "Quero uma proposta personalizada",
+    "back": "Voltar para a página inicial"
+  }
+}
